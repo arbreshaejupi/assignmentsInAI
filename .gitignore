@@ -1,0 +1,13 @@
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python virtual environments
+venv/
+.venv/
